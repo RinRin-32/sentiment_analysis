@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2565bfa-7b17-4a2a-92c6-284989049298" name="Changes" comment="Unit 2 Finished">
+    <list default="true" id="c2565bfa-7b17-4a2a-92c6-284989049298" name="Changes" comment="Fixed Kernel issue">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$USER_HOME$/Documents/MLProjects/mnist/part1/kernel.py" beforeDir="false" afterPath="$USER_HOME$/Documents/MLProjects/mnist/part1/kernel.py" afterDir="false" />
-      <change beforePath="$USER_HOME$/Documents/MLProjects/mnist/part1/main.py" beforeDir="false" afterPath="$USER_HOME$/Documents/MLProjects/mnist/part1/main.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MLProjects/mnist/part2-mnist/nnet_cnn.py" beforeDir="false" afterPath="$USER_HOME$/Documents/MLProjects/mnist/part2-mnist/nnet_cnn.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MLProjects/mnist/part2-mnist/nnet_fc.py" beforeDir="false" afterPath="$USER_HOME$/Documents/MLProjects/mnist/part2-mnist/nnet_fc.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MLProjects/mnist/part2-nn/neural_nets.py" beforeDir="false" afterPath="$USER_HOME$/Documents/MLProjects/mnist/part2-nn/neural_nets.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MLProjects/mnist/part2-twodigit/conv.py" beforeDir="false" afterPath="$USER_HOME$/Documents/MLProjects/mnist/part2-twodigit/conv.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/MLProjects/mnist/part2-twodigit/mlp.py" beforeDir="false" afterPath="$USER_HOME$/Documents/MLProjects/mnist/part2-twodigit/mlp.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,13 +29,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/rinrin32/Documents/MLProjects/mnist&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/rinrin32/Documents/MLProjects/mnist",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -55,6 +59,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Unit 2 Finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Unit 2 Finished" />
+    <MESSAGE value="Fixed Kernel issue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed Kernel issue" />
   </component>
 </project>
